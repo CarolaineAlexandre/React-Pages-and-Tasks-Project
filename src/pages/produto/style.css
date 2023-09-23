@@ -1,0 +1,29 @@
+#root {
+  /* max-width: 1280px; */
+  width: 100%;
+}
+
+.input-container {
+  margin-bottom: 10px; /* Adicione margem inferior para separar os campos */
+
+}
+
+ nav {
+  background-color: #6a00ff; 
+  padding: 20px; 
+  text-align: center; 
+  font-size: 15px; 
+  display:flex; 
+  justify-content: space-around; 
+  
+ }
+
+  button{
+    background-color: #6a00ff;
+    color: aliceblue;
+  }
+
+  .space{
+    display:flex; 
+    justify-content: space-around; 
+  }

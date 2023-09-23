@@ -1,0 +1,30 @@
+#root {
+    /* max-width: 1280px; */
+    width: 100%;
+    height: 100%;
+    /* padding: 2rem; */
+  }
+
+  h1, h3{
+    text-align: start;
+  }
+
+  nav {
+    background-color: #6a00ff; 
+    padding: 20px; 
+    text-align: center; 
+    font-size: 15px; 
+    display:flex; 
+    justify-content: space-around; 
+    
+   }
+
+   .color{
+    color: aliceblue;
+  }
+
+  .description{
+    margin: 20%;
+  }
+  
+  

@@ -1,0 +1,29 @@
+#root {
+  /* max-width: 1280px; */
+  width: 100%;
+  height: 100%;
+  /* padding: 2rem; */
+}
+
+h1, h3, li{
+  text-align: start;
+  margin-inline-start:60px;
+}
+
+nav {
+  background-color: #6a00ff; 
+  padding: 20px; 
+  text-align: center; 
+  font-size: 15px; 
+  display:flex; 
+  justify-content: space-around; 
+  
+ }
+
+.description{
+  margin: 20%;
+}
+
+.color{
+  color: aliceblue;
+}
